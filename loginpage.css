@@ -66,8 +66,9 @@ body{
 
 @media screen and (max-width:600px){
     .login{
+        padding: 35px;
         width: 80%;
-        
+        height: 300px;
         input{
             width: 350px;
             border: 1px solid;
@@ -76,7 +77,10 @@ body{
             width: 370px;
         }
         a{
-            font-size: 13px;
+            font-size: 12px;
+        }
+        p{
+            font-weight: bolder;
         }
     }
 
