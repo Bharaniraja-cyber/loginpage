@@ -69,13 +69,14 @@ body{
         width: 80%;
         
         input{
-            width: 370px;
+            width: 350px;
+            border: 1px solid;
         }
         button{
-            width: 390px;
+            width: 370px;
         }
         a{
-            font-size: 15px;
+            font-size: 13px;
         }
     }
 
