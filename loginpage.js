@@ -81,5 +81,5 @@ password.addEventListener("input", validateAll);
 
 // On submit click
 submitBtn.addEventListener("click", function() {
-    alert("Login Successful! 😎");
+    alert("Form Submitted Successful! 😎");
 });
